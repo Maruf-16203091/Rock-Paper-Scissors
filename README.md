@@ -1,1 +1,1 @@
-This is a simple game using html css and js
+This is a simple game using html css and js. This poject is developed only for learning
